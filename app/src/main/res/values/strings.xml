@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ad Testing</string>
+    <string name="admob_app_id">YOUR ADMOB APP ID</string>
+    <string name="admob_banner_id">YOUR ADMOB BANNER AD ID</string>
+    <string name="admob_open_app_ad">YOUR ADMOB OPEN APP AD ID</string>
+</resources>
